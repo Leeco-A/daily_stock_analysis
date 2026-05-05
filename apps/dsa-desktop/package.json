@@ -9,7 +9,7 @@
     "test": "node --test tests/preload.test.js"
   },
   "devDependencies": {
-    "electron": "^31.4.0",
+    "electron": "^41.5.0",
     "electron-builder": "^24.13.3"
   },
   "build": {
